@@ -1,0 +1,23 @@
+site_name: vid's Dev Site
+site_author: vidplace7
+site_description: vid's Dev Site
+copyright: © Creative Commons Attribution-ShareAlike 4.0 International License
+site_url: https://vidplace7.com
+repo_url: https://github.com/vidplace7/vidplace7.github.io
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+
+plugins:
+  - blog
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/code
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/vidplace7
