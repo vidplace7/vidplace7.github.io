@@ -1,1 +1,1 @@
-mkdocs-material[imaging]==9.6.21
+mkdocs-material[imaging]==9.6.23
